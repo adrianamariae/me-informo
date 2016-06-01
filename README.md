@@ -15,6 +15,8 @@ El Estado actual de la página está disponible en:
 
 La documentación sobre los endpoints está en la raiz de la dirección.
 
+Los assets y los logos los puedes encontrar [aquí](https://drive.google.com/a/civica.digital/folderview?id=0B6GrwWuvM5qPN1R3Sk9nenNvOUk&usp=sharing). 
+
 
 ## ¿Preguntas, problemas, sugerencias o colaborar?
 
